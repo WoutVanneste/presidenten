@@ -1,0 +1,314 @@
+{
+    "cards": [
+        {
+            "type": "Harten",
+            "name": "Harten aas",
+            "image": "ace_of_hearts.png",
+            "value": 14
+        },
+        {
+            "type": "Harten",
+            "name": "Harten koning",
+            "image": "king_of_hearts.png",
+            "value": 13
+        },
+        {
+            "type": "Harten",
+            "name": "Harten dame",
+            "image": "queen_of_hearts.png",
+            "value": 12
+        },
+        {
+            "type": "Harten",
+            "name": "Harten boer",
+            "image": "jack_of_hearts.png",
+            "value": 11
+        },
+        {
+            "type": "Harten",
+            "name": "Harten tien",
+            "image": "ten_of_hearts.png",
+            "value": 10
+        },
+        {
+            "type": "Harten",
+            "name": "Harten negen",
+            "image": "nine_of_hearts.png",
+            "value": 9
+        },
+        {
+            "type": "Harten",
+            "name": "Harten acht",
+            "image": "eight_of_hearts.png",
+            "value": 8
+        },
+        {
+            "type": "Harten",
+            "name": "Harten zeven",
+            "image": "seven_of_hearts.png",
+            "value": 7
+        },
+        {
+            "type": "Harten",
+            "name": "Harten zes",
+            "image": "six_of_hearts.png",
+            "value": 6
+        },
+        {
+            "type": "Harten",
+            "name": "Harten vijf",
+            "image": "five_of_hearts.png",
+            "value": 5
+        },
+        {
+            "type": "Harten",
+            "name": "Harten vier",
+            "image": "four_of_hearts.png",
+            "value": 4
+        },
+        {
+            "type": "Harten",
+            "name": "Harten drie",
+            "image": "three_of_hearts.png",
+            "value": 3
+        },
+        {
+            "type": "Harten",
+            "name": "Harten twee",
+            "image": "two_of_hearts.png",
+            "value": 2
+        },
+        {
+            "type": "Ruiten",
+            "name": "Ruiten aas",
+            "image": "ace_of_diamonds.png",
+            "value": 14
+        },
+        {
+            "type": "Ruiten",
+            "name": "Ruiten koning",
+            "image": "king_of_diamonds.png",
+            "value": 13
+        },
+        {
+            "type": "Ruiten",
+            "name": "Ruiten dame",
+            "image": "queen_of_diamonds.png",
+            "value": 12
+        },
+        {
+            "type": "Ruiten",
+            "name": "Ruiten boer",
+            "image": "jack_of_diamonds.png",
+            "value": 11
+        },
+        {
+            "type": "Ruiten",
+            "name": "Ruiten tien",
+            "image": "ten_of_diamonds.png",
+            "value": 10
+        },
+        {
+            "type": "Ruiten",
+            "name": "Ruiten negen",
+            "image": "nine_of_diamonds.png",
+            "value": 9
+        },
+        {
+            "type": "Ruiten",
+            "name": "Ruiten acht",
+            "image": "eight_of_diamonds.png",
+            "value": 8
+        },
+        {
+            "type": "Ruiten",
+            "name": "Ruiten zeven",
+            "image": "seven_of_diamonds.png",
+            "value": 7
+        },
+        {
+            "type": "Ruiten",
+            "name": "Ruiten zes",
+            "image": "six_of_diamonds.png",
+            "value": 6
+        },
+        {
+            "type": "Ruiten",
+            "name": "Ruiten vijf",
+            "image": "five_of_diamonds.png",
+            "value": 5
+        },
+        {
+            "type": "Ruiten",
+            "name": "Ruiten vier",
+            "image": "four_of_diamonds.png",
+            "value": 4
+        },
+        {
+            "type": "Ruiten",
+            "name": "Ruiten drie",
+            "image": "three_of_diamonds.png",
+            "value": 3
+        },
+        {
+            "type": "Ruiten",
+            "name": "Ruiten twee",
+            "image": "two_of_diamonds.png",
+            "value": 2
+        }, {
+            "type": "Schoppen",
+            "name": "Schoppen aas",
+            "image": "ace_of_spades.png",
+            "value": 14
+        },
+        {
+            "type": "Schoppen",
+            "name": "Schoppen koning",
+            "image": "king_of_spades.png",
+            "value": 13
+        },
+        {
+            "type": "Schoppen",
+            "name": "Schoppen dame",
+            "image": "queen_of_spades.png",
+            "value": 12
+        },
+        {
+            "type": "Schoppen",
+            "name": "Schoppen boer",
+            "image": "jack_of_spades.png",
+            "value": 11
+        },
+        {
+            "type": "Schoppen",
+            "name": "Schoppen tien",
+            "image": "ten_of_spades.png",
+            "value": 10
+        },
+        {
+            "type": "Schoppen",
+            "name": "Schoppen negen",
+            "image": "nine_of_spades.png",
+            "value": 9
+        },
+        {
+            "type": "Schoppen",
+            "name": "Schoppen acht",
+            "image": "eight_of_spades.png",
+            "value": 8
+        },
+        {
+            "type": "Schoppen",
+            "name": "Schoppen zeven",
+            "image": "seven_of_spades.png",
+            "value": 7
+        },
+        {
+            "type": "Schoppen",
+            "name": "Schoppen zes",
+            "image": "six_of_spades.png",
+            "value": 6
+        },
+        {
+            "type": "Schoppen",
+            "name": "Schoppen vijf",
+            "image": "five_of_spades.png",
+            "value": 5
+        },
+        {
+            "type": "Schoppen",
+            "name": "Schoppen vier",
+            "image": "four_of_spades.png",
+            "value": 4
+        },
+        {
+            "type": "Schoppen",
+            "name": "Schoppen drie",
+            "image": "three_of_spades.png",
+            "value": 3
+        },
+        {
+            "type": "Schoppen",
+            "name": "Schoppen twee",
+            "image": "two_of_spades.png",
+            "value": 2
+        }, {
+            "type": "Klaver",
+            "name": "Klaver aas",
+            "image": "ace_of_clubs.png",
+            "value": 14
+        },
+        {
+            "type": "Klaver",
+            "name": "Klaver koning",
+            "image": "king_of_clubs.png",
+            "value": 13
+        },
+        {
+            "type": "Klaver",
+            "name": "Klaver dame",
+            "image": "queen_of_clubs.png",
+            "value": 12
+        },
+        {
+            "type": "Klaver",
+            "name": "Klaver boer",
+            "image": "jack_of_clubs.png",
+            "value": 11
+        },
+        {
+            "type": "Klaver",
+            "name": "Klaver tien",
+            "image": "ten_of_clubs.png",
+            "value": 10
+        },
+        {
+            "type": "Klaver",
+            "name": "Klaver negen",
+            "image": "nine_of_clubs.png",
+            "value": 9
+        },
+        {
+            "type": "Klaver",
+            "name": "Klaver acht",
+            "image": "eight_of_clubs.png",
+            "value": 8
+        },
+        {
+            "type": "Klaver",
+            "name": "Klaver zeven",
+            "image": "seven_of_clubs.png",
+            "value": 7
+        },
+        {
+            "type": "Klaver",
+            "name": "Klaver zes",
+            "image": "six_of_clubs.png",
+            "value": 6
+        },
+        {
+            "type": "Klaver",
+            "name": "Klaver vijf",
+            "image": "five_of_clubs.png",
+            "value": 5
+        },
+        {
+            "type": "Klaver",
+            "name": "Klaver vier",
+            "image": "four_of_clubs.png",
+            "value": 4
+        },
+        {
+            "type": "Klaver",
+            "name": "Klaver drie",
+            "image": "three_of_clubs.png",
+            "value": 3
+        },
+        {
+            "type": "Klaver",
+            "name": "Klaver twee",
+            "image": "two_of_clubs.png",
+            "value": 2
+        }
+    ]
+}
