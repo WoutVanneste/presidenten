@@ -1,4 +1,4 @@
-import logo from './assets/harten-K.png';
+import logo from './assets/king_of_hearts.png';
 import './App.css';
 
 function App() {
